@@ -5,7 +5,8 @@
     <p>Student ved NTNU Trondheim - Dataingeniør.</p>
     <p>Stor interesse for data - spesifikt innen systemdesign</p>
     <p>Spiller volleyball på NTNUI</p>
+    <h2>Relevante lenker</h2>
+### [Prosjekter](Prosjekter.md)
   </div>
 </div>
-<h2>Relevante lenker</h2>
-###[Prosjekter](Prosjekter.md)
+
