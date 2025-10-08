@@ -6,7 +6,7 @@
     <p>Stor interesse for data - spesifikt innen systemdesign</p>
     <p>Spiller volleyball på NTNUI</p>
     <h2>Relevante lenker</h2>
-    [Prosjekter](Prosjekter.md)
+    <a href="Prosjekter.md">Prosjekter</a>
   </div>
 </div>
 
