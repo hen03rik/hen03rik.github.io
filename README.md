@@ -7,4 +7,5 @@
     <p>Spiller volleyball på NTNUI</p>
   </div>
 </div>
-<h2>Your Name</h2>
+<h2>Relevante lenker</h2>
+
