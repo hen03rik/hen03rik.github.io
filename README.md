@@ -8,4 +8,4 @@
   </div>
 </div>
 <h2>Relevante lenker</h2>
-###[Prosjekter](prosjekter.md)
+###[Prosjekter](Prosjekter.md)
