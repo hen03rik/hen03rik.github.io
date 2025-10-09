@@ -1,3 +1,9 @@
+---
+layout: default
+title: Prosjekter
+---
+
+
 <div style="display: flex; align-items: center;">
   <img src="Untitled (3).png" alt="Portrait" style="width: 420px; height: 600px; object-fit: cover; border-radius: 12px; margin-right: 20px;">
   <div>
