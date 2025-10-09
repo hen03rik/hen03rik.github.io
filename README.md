@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prosjekter
+title: Om meg
 ---
 
 
