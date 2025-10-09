@@ -9,6 +9,8 @@
     <h2>Relevante lenker</h2>
     <p>Her finner du prosjekter jeg jobber med i github</p>
     <a href="Prosjekter.html">Prosjekter</a>
+    <p>her finner du all kontaktinformasjon for å nå meg</p>
+    <a href="ContactInfo.html">Kontakt Informasjon</a>
   <div>
 <div>
 
