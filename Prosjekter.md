@@ -9,6 +9,7 @@
   <div>
     <h3><a href="https://git.ntnu.no/IDATT1004-Team-23-H2025/lego-linedriver" target="_blank" style="text-decoration: none; color: black;">Lego-Robot</a></h3>
     <p>Python · Teamarbeid · Robotikk</p>
+    <p>Her lagde vi en lego bil som fulgte en linje, som skulle kjøre kappløp mot andre lego biler</p>
   </div>
 </div>
 
@@ -16,5 +17,6 @@
   <div>
     <h3><a href="https://github.com/hen03rik/ovingProgrammering1" target="_blank" style="text-decoration: none; color: black;">Programmerings-øvelser</a></h3>
     <p>Java · Logikk</p>
+    <p>Dette er en samling av kodene jeg har skrevet i faget Programmering 1 - IDATT1003</p>
   </div>
 </div>
