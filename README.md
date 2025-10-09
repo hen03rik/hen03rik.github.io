@@ -8,7 +8,7 @@
     <p>Spiller volleyball på NTNUI</p>
     <h2>Relevante lenker</h2>
     <p>Her finner du prosjekter jeg jobber med i github</p>
-    <a href="Prosjekter.md">Prosjekter</a>
+    <a href="Prosjekter.html">Prosjekter</a>
   <div>
 <div>
 
