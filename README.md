@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="Untitled (3).png" alt="Portrait" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 20px;">
+  <img src="Untitled (3).png" alt="Portrait" style="width: 280px; height: 400px; object-fit: cover; border-radius: 12px; margin-right: 20px;">
   <div>
     <h2>Om meg</h2>
     <p>Student ved NTNU Trondheim - Dataingeniør.</p>
