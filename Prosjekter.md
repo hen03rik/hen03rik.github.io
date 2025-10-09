@@ -1,9 +1,20 @@
-## Mine Prosjekter
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <h2>Mine Prosjekter</h2>
+    <p>Under finner du noen av prosjektene jeg jobber med, med fokus på programmering, logikk og robotikk.</p>
+  </div>
+</div>
 
-### [Lego-Robot](https://git.ntnu.no/IDATT1004-Team-23-H2025/lego-linedriver)
-> Python · Teamarbeid · Robotikk
+<div style="display: flex; align-items: center; margin-top: 10px;">
+  <div>
+    <h3><a href="https://git.ntnu.no/IDATT1004-Team-23-H2025/lego-linedriver" target="_blank" style="text-decoration: none; color: black;">Lego-Robot</a></h3>
+    <p>Python · Teamarbeid · Robotikk</p>
+  </div>
+</div>
 
----
-
-### [Programmerings-øvelser](https://github.com/hen03rik/ovingProgrammering1)
-> Java · Logikk
+<div style="display: flex; align-items: center; margin-top: 10px;">
+  <div>
+    <h3><a href="https://github.com/hen03rik/ovingProgrammering1" target="_blank" style="text-decoration: none; color: black;">Programmerings-øvelser</a></h3>
+    <p>Java · Logikk</p>
+  </div>
+</div>
